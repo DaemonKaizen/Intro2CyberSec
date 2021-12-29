@@ -42,12 +42,23 @@
 - [ ] Add resources
 - [ ] Clean up found resources
 - [ ] Group resources into appropriate groups based on media format or use-case
-- [ ] Build a table of contents
+- [ ] Build a better table of contents
+- [x] ~~Build a rough table of contents~~
 - [x] ~~Top of README.md ASCII art~~
 
 
-## Table of Contents
+# Table of Contents
 
 1. What is this repo?
 2. Free Material
 3. Paid Material
+4. TBD
+5. TBD
+
+
+## What is this repo?
+
+
+## Free Material
+
+## Paid Material
