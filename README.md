@@ -54,7 +54,6 @@
 2. Free Material
 3. Paid Material
 4. Hands-On Material
-5. Programming
 
 
 ## What is this repo?
@@ -67,4 +66,9 @@ In this section, all material will be freely available no matter the format (vid
 
 ## Paid Material
 
-## Capture The Flag Rooms
+In this section, all material will require either a one-time purchase or a recurring subscription to access.
+
+## Hands-On Material
+
+In this section, all material will allow for hands-on learning via cloud-based Virtual Machines, coursework allowing you to follow along, and local machine VM's to complete tasks and modules.
+
