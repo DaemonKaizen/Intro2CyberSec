@@ -58,7 +58,7 @@
 
 ## What is this repo?
 
-This repository is meant to act as a live collection of learning materials found online to assist those looking to learn or break into Cyber Security.
+This repository is meant to act as a live collection of learning materials found online to assist those looking to learn or break into Cyber Security. much of this information has been curated from other various lists found here on GitHub, threads on Twitter, and posts from Reddit. I will do my best to ensure that all links that are listed within this repo will be credited to the original poster.
 
 ## Free Material
 
