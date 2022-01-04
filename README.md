@@ -66,7 +66,7 @@ In this section, all material will be freely available no matter the format (vid
 
 ## Paid Material
 
-In this section, all material will require either a one-time purchase or a recurring subscription to access.
+In this section, all material will require either a one-time purchase or a recurring subscription to access. Udemy has a wealth of information within the classes found on there. I may look into a way of updating this on the fly or another file with links to courses with an active coupon code so the classes can be purchased at a discount.
 
 ## Hands-On Material
 
