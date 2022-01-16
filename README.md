@@ -75,11 +75,11 @@ In this section, all material will allow for hands-on learning via cloud-based V
 
 ## 5. Skill Level Legend
 
-| Legend     | Meaning     |
-|------------|-------------|
-| AB         | Absolute Beginner |
-| B          | Beginner |
-| I          | Intermediate |
-| P          | Professional |
-| ** -> **   | From X to Y |
+| Legend     | Meaning     | Description|
+|------------|-------------|--------------|
+| AB         | Absolute Beginner | Has no technical knowledge |
+| B          | Beginner | Has some technical knowledge |
+| I          | Intermediate | Entry level to Associate level of knowledge |
+| P          | Professional | Associate to Senior level of knowledge |
+| ** -> **   | From X to Y | Resource can span from various levels of knowledge |
 
