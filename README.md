@@ -81,5 +81,5 @@ In this section, all material will allow for hands-on learning via cloud-based V
 | B          | Beginner | Has some technical knowledge |
 | I          | Intermediate | Entry level to Associate level of knowledge |
 | P          | Professional | Associate to Senior level of knowledge |
-| **>**   | From X to Y | Resource can span from various levels of knowledge |
+| ** > **   | From X to Y | Resource can span from various levels of knowledge |
 
